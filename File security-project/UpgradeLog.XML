@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FileProtector">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\FileProtector.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\FileProtector.suo">
+</Property><Property Name="Date" Value="20 February, 2009">
+</Property><Property Name="Time" Value="16:08 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FileProtector.sln" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\FileProtector.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FileProtector.suo" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\FileProtector.suo">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="FileProtector.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\FileProtector.vbproj">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="FileProtector.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\FileProtector.vbproj.user">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="frmAbout.vb" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\frmAbout.vb">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="frmAdd.vb" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\frmAdd.vb">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="frmFile.vb" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\frmFile.vb">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="frmLogin.vb" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\frmLogin.vb">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="frmView.vb" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\frmView.vb">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="ModDB.vb" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\ModDB.vb">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="ModEncryption.vb" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\ModEncryption.vb">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="Module1.vb" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="PASSWORD.vb" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\PASSWORD.vb">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="frmAbout.resX" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\frmAbout.resX">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="frmAdd.resX" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\frmAdd.resX">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="frmFile.resX" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\frmFile.resX">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="frmLogin.resX" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\frmLogin.resX">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="frmView.resX" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\frmView.resX">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="PASSWORD.resx" Description="File successfully backed up as C:\Documents and Settings\Ascentz\Desktop\FileProtector-New\Backup\PASSWORD.resx">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="FileProtector.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FileProtector" Source="FileProtector.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FileProtector.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FileProtector.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FileProtector" Source="FileProtector.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

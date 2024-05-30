@@ -1,0 +1,15 @@
+obj\Debug\FileProtector.exe
+obj\Debug\FileProtector.pdb
+bin\FileProtector.exe
+bin\FileProtector.pdb
+bin\FileProtector.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FileProtector.vbproj.ResolveComReference.cache
+obj\Debug\FileProtector.frmAbout.resources
+obj\Debug\FileProtector.frmAdd.resources
+obj\Debug\FileProtector.MDIForm1.resources
+obj\Debug\FileProtector.frmLogin.resources
+obj\Debug\FileProtector.frmView.resources
+obj\Debug\FileProtector.PASSWORD.resources
+obj\Debug\FileProtector.vbproj.GenerateResource.Cache
+obj\Debug\FileProtector.xml
